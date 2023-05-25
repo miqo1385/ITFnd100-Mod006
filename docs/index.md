@@ -7,3 +7,4 @@
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+[Assignment06_Miguel_Quintanawe.pdf](https://github.com/miqo1385/ITFnd100-Mod006/files/11561499/Assignment06_Miguel_Quintanawe.pdf)
